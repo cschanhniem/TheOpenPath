@@ -1,0 +1,13 @@
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  english/00_theOpenPath/README: english/00_TheOpenPath/README.md
+  english/01_theFlourishingStart/README: english/01_TheFlourishingStart/README.md
+  english/02_ecologicalIntegrity/README: english/02_EcologicalIntegrity/README.md
+  english/03_universalBasicNeeds/README: english/03_UniversalBasicNeeds/README.md
+  english/04_globalHealth_diseaseEradication/README: english/04_GlobalHealth_DiseaseEradication/README.md
+  english/05_globalPeace_cooperation/README: english/05_GlobalPeace_Cooperation/README.md

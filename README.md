@@ -14,87 +14,91 @@ This repository is an open-source, evolving knowledge commons. It begins with th
 ├── README.md                   # Main entry point: Vision, Mission, How to Navigate, Core Principles
 ├── CONTRIBUTING.md             # Guidelines for contributors
 ├── CODE_OF_CONDUCT.md          # Community standards
-├── LICENSE                     # e.g., Creative Commons (CC BY-SA 4.0 or CC0 for maximum openness)
-│
-├── 00_TheOpenPath/             # Core: Individual Well-being & Resilience
-│   ├── README.md               # Introduction to The Open Path
-│   ├── Principles/             # Core tenets (e.g., Mindfulness, Compassion, Self-Awareness)
-│   │   ├── 01_UnderstandingTheMind.md
-│   │   ├── 02_CultivatingAwareness.md
-│   │   └── ...
-│   ├── Practices/              # Actionable techniques & exercises
-│   │   ├── 01_FoundationalMeditations.md
-│   │   ├── 02_EmotionalRegulationExercises.md
-│   │   └── ...
-│   ├── Translations/           # Language-specific versions (e.g., /vi, /es, /fr)
-│   │   └── vi/
-│   │       ├── README_vi.md
-│   │       └── DaoMo_NguyenTac.md
-│   └── Resources/              # Links, further reading, simple diagrams
-│
-├── 01_TheFlourishingStart/     # Foundational Human Development (Conception to Early Childhood)
-│   ├── README.md               # Importance of the first 1000 days
-│   ├── Principles/
-│   │   ├── 01_OptimalPrenatalWellbeing.md
-│   │   ├── 02_SecureAttachmentNurturing.md
-│   │   └── ...
-│   ├── Practices_for_Caregivers/
-│   │   ├── 01_ResponsiveInfantInteraction.md
-│   │   └── ...
-│   ├── Translations/
-│   └── Resources/
-│
-├── 02_EcologicalIntegrity/     # Ensuring Harmony with Biological Life & Environment
-│   ├── README.md               # Interconnectedness of human & planetary health
-│   ├── Principles/
-│   │   ├── 01_UnderstandingEcosystems.md
-│   │   ├── 02_SustainableLiving.md
-│   │   └── ...
-│   ├── Frameworks_Actionables/ # Practical guides, community models
-│   │   ├── 01_RegenerativeAgricultureBasics.md
-│   │   ├── 02_CommunityConservationModels.md
-│   │   └── ...
-│   ├── Translations/
-│   └── Resources/
-│
-├── 03_UniversalBasicNeeds/     # Frameworks for Food, Water, Shelter, Energy for All
-│   ├── README.md               # Addressing fundamental human requirements
-│   ├── Frameworks_Models/
-│   │   ├── 01_SustainableFoodSystems.md
-│   │   ├── 02_CleanWaterAccessSolutions.md
-│   │   └── ...
-│   ├── OpenSourceTech_Solutions/ # Links/summaries of relevant open technologies
-│   ├── CaseStudies/
-│   ├── Translations/
-│   └── Resources/
-│
-├── 04_GlobalHealth_DiseaseEradication/ # Addressing Major Diseases & Promoting Universal Health
-│   ├── README.md               # Vision for reduced disease burden
-│   ├── KnowledgeBase_Prevention/
-│   │   ├── 01_UnderstandingCommonDiseases.md
-│   │   ├── 02_PrinciplesOfPublicHealth.md
-│   │   └── ...
-│   ├── OpenResearch_Links/
-│   ├── CommunityHealth_Advocacy/
-│   ├── Translations/
-│   └── Resources/
-│
-├── 05_GlobalPeace_Cooperation/ # Frameworks for Lasting Peace & Collaboration
-│   ├── README.md               # Necessity of peace for human flourishing
-│   ├── Principles_Of_Peace/
-│   │   ├── 01_NonviolentCommunication.md
-│   │   ├── 02_ConflictResolutionTechniques.md
-│   │   └── ...
-│   ├── Models_For_Cooperation/
-│   │   ├── 01_GlobalCitizenshipEducation.md
-│   │   └── ...
-│   ├── EducationalResources/
-│   ├── Translations/
-│   └── Resources/
-│
+├── LICENSE                     # Creative Commons license for maximum openness
 ├── Glossary.md                 # Definitions of key terms used across the repo
 ├── Methodology.md              # How information is curated, evidence standards
-└── Community_Hub.md            # Info on discussions, forums, how to get involved
+├── Community_Hub.md            # Info on discussions, forums, how to get involved
+├── Community_Engagement_Strategy.md # Strategy for building community
+│
+├── english/                    # English language content
+│   ├── README.md               # Introduction to English language section
+│   │
+│   ├── 00_TheOpenPath/         # Core: Individual Well-being & Resilience
+│   │   ├── README.md           # Introduction to The Open Path
+│   │   ├── Principles/         # Core tenets (e.g., Mindfulness, Compassion, Self-Awareness)
+│   │   │   ├── 01_UnderstandingTheMind.md
+│   │   │   ├── 02_CultivatingAwareness.md
+│   │   │   └── ...
+│   │   ├── Practices/          # Actionable techniques & exercises
+│   │   │   ├── 01_FoundationalMeditations.md
+│   │   │   ├── 02_EmotionalRegulationExercises.md
+│   │   │   └── ...
+│   │   └── Resources/          # Links, further reading, simple diagrams
+│   │
+│   ├── 01_TheFlourishingStart/ # Foundational Human Development (Conception to Early Childhood)
+│   │   ├── README.md           # Importance of the first 1000 days
+│   │   ├── Principles/
+│   │   │   ├── 01_OptimalPrenatalWellbeing.md
+│   │   │   ├── 02_SecureAttachmentNurturing.md
+│   │   │   └── ...
+│   │   ├── Practices_for_Caregivers/
+│   │   │   ├── 01_ResponsiveInfantInteraction.md
+│   │   │   └── ...
+│   │   └── Resources/
+│   │
+│   ├── 02_EcologicalIntegrity/ # Ensuring Harmony with Biological Life & Environment
+│   │   ├── README.md           # Interconnectedness of human & planetary health
+│   │   ├── Principles/
+│   │   │   ├── 01_UnderstandingEcosystems.md
+│   │   │   ├── 02_SustainableLiving.md
+│   │   │   └── ...
+│   │   ├── Frameworks_Actionables/ # Practical guides, community models
+│   │   │   ├── 01_RegenerativeAgricultureBasics.md
+│   │   │   ├── 02_CommunityConservationModels.md
+│   │   │   └── ...
+│   │   └── Resources/
+│   │
+│   ├── 03_UniversalBasicNeeds/ # Frameworks for Food, Water, Shelter, Energy for All
+│   │   ├── README.md           # Addressing fundamental human requirements
+│   │   ├── Frameworks_Models/
+│   │   │   ├── 01_SustainableFoodSystems.md
+│   │   │   ├── 02_CleanWaterAccessSolutions.md
+│   │   │   └── ...
+│   │   ├── OpenSourceTech_Solutions/ # Links/summaries of relevant open technologies
+│   │   │   ├── 01_WaterPurificationTechnologies.md
+│   │   │   └── ...
+│   │   ├── CaseStudies/
+│   │   │   ├── 01_CommunityFoodSecurityInitiatives.md
+│   │   │   └── ...
+│   │   └── Resources/
+│   │
+│   ├── 04_GlobalHealth_DiseaseEradication/ # Addressing Major Diseases & Promoting Universal Health
+│   │   ├── README.md           # Vision for reduced disease burden
+│   │   ├── KnowledgeBase_Prevention/
+│   │   │   ├── 01_UnderstandingCommonDiseases.md
+│   │   │   ├── 02_PrinciplesOfPublicHealth.md
+│   │   │   └── ...
+│   │   ├── OpenResearch_Links/
+│   │   ├── CommunityHealth_Advocacy/
+│   │   │   ├── 01_CommunityHealthWorkerPrograms.md
+│   │   │   └── ...
+│   │   └── Resources/
+│   │
+│   └── 05_GlobalPeace_Cooperation/ # Frameworks for Lasting Peace & Collaboration
+│       ├── README.md           # Necessity of peace for human flourishing
+│       ├── Principles_Of_Peace/
+│       │   ├── 01_NonviolentCommunication.md
+│       │   ├── 02_ConflictResolutionTechniques.md
+│       │   └── ...
+│       ├── Models_For_Cooperation/
+│       │   ├── 01_GlobalCitizenshipEducation.md
+│       │   └── ...
+│       ├── EducationalResources/
+│       │   ├── 01_PeaceEducationCurriculum.md
+│       │   └── ...
+│       └── Resources/
+│
+└── [other language directories will be added here]
 ```
 ## Content Philosophy for Each Module:
 
@@ -134,10 +138,22 @@ This repository is an open-source, evolving knowledge commons. It begins with th
 
 ## Technology & Tools:
 
-* **Git & Platform (GitHub, GitLab, etc.):** For version control, collaboration, and issue tracking.
+* **Git & GitHub:** For version control, collaboration, and issue tracking.
 * **Markdown:** For all textual content due to its simplicity, readability, and version-control friendliness.
-* **Static Site Generator (Optional but Recommended for Public Interface):** Tools like Jekyll, Hugo, Docusaurus, or MkDocs can transform the Markdown repository into a beautifully rendered, easily navigable website. This can be hosted for free on platforms like GitHub Pages or Netlify.
+* **GitBook:** Our public-facing website at [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path) provides a beautifully rendered, easily navigable interface for the content.
 * **Translation Management Platform (Future Consideration):** If translation becomes a large-scale effort, platforms like Weblate or Crowdin could be explored.
+
+## Community Engagement:
+
+We are building a vibrant community around The Open Path - Global Flourishing Initiative. Our community engagement strategy includes:
+
+* **GitBook Website:** Our primary public-facing platform for accessible content.
+* **GitHub Repository:** Our collaborative development environment for content creation.
+* **Discussion Forums:** Dedicated spaces for in-depth conversation (coming soon).
+* **Virtual Gatherings:** Regular online meetings for practice and collaboration (coming soon).
+* **Social Media:** Channels for broader awareness and engagement (in development).
+
+For more details on how to get involved, see our [Community Hub](Community_Hub.md) and [Community Engagement Strategy](Community_Engagement_Strategy.md).
 
 ## Guiding Ethos for Content Creation & Curation:
 
