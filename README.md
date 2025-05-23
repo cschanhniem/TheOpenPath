@@ -114,8 +114,9 @@ This repository is an open-source, evolving knowledge commons. It begins with th
     * Actionable steps, techniques, models, or guides.
     * Practical, step-by-step instructions where appropriate.
     * Focus on *how* to implement the principles.
-* **`Translations/`:**
-    * Dedicated subdirectories for each language (e.g., `vi` for Vietnamese, `es` for Spanish).
+* **Language Organization:**
+    * Content is organized by language directories at the root level (e.g., `english`, `español`, `français`).
+    * Each language directory contains the complete module structure.
     * Aim for conceptual fidelity and cultural relevance in translations.
 * **`Resources/`:**
     * Curated links to high-quality external articles, research papers, open-source tools, organizations, and educational materials.
@@ -132,7 +133,7 @@ This repository is an open-source, evolving knowledge commons. It begins with th
     * Start outlining core principles and linking to key existing resources in `02_EcologicalIntegrity`.
 3.  **Phase 3: Community Collaboration & Expansion**
     * Actively invite contributors for specific modules.
-    * Focus on translation efforts for `00_TheOpenPath` and `01_TheFlourishingStart`.
+    * Focus on translation efforts by creating new language directories at the root level.
     * Gradually build out content for modules `02` through `05`, prioritizing areas where clear, actionable, open-source knowledge can have a high impact.
     * The content for broader topics like "Universal Basic Needs" or "Global Peace" might initially focus on curating and synthesizing existing excellent open resources and frameworks rather than generating everything new.
 

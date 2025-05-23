@@ -8,6 +8,11 @@
 * [Contributing Guidelines](CONTRIBUTING.md)
 * [Code of Conduct](CODE_OF_CONDUCT.md)
 
+## Languages
+
+* [English](english/README.md)
+* [Español](español/README.md) (Coming Soon)
+
 ## English
 
 ### 00 - The Open Path
