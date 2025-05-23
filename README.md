@@ -1,6 +1,6 @@
-# Blueprint: The Open Path - Global Flourishing Initiative
+# The Open Path - Global Flourishing Initiative
 
-**Repository Name Suggestion:** `TheOpenPath-GlobalFlourishing` or `ProjectFlourishing-OpenPathCore`
+**Website:** [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path)
 
 **Vision:** To cultivate a world where every individual is empowered with tools for inner peace, resilience, and wisdom ("The Open Path"), and where humanity collectively leverages open knowledge and collaborative frameworks to address fundamental challenges, fostering sustainable well-being for all beings and the planet.
 
