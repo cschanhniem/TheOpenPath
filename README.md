@@ -8,12 +8,94 @@
 This repository is an open-source, evolving knowledge commons. It begins with the individual's journey towards self-awareness and well-being and expands to encompass actionable wisdom and frameworks for societal and ecological flourishing. We believe in the interconnectedness of individual well-being and global well-being. All content is intended to be freely shared, adapted, and improved by a global community.
 
 ---
-
+```
 ## Root Directory Structure & Content
 
-/├── README.md                   # Main entry point: Vision, Mission, How to Navigate, Core Principles├── CONTRIBUTING.md             # Guidelines for contributors├── CODE_OF_CONDUCT.md          # Community standards├── LICENSE                     # e.g., Creative Commons (CC BY-SA 4.0 or CC0 for maximum openness)│├── 00_TheOpenPath/             # Core: Individual Well-being & Resilience│   ├── README.md               # Introduction to The Open Path│   ├── Principles/             # Core tenets (e.g., Mindfulness, Compassion, Self-Awareness)│   │   ├── 01_UnderstandingTheMind.md│   │   ├── 02_CultivatingAwareness.md│   │   └── ...│   ├── Practices/              # Actionable techniques & exercises│   │   ├── 01_FoundationalMeditations.md│   │   ├── 02_EmotionalRegulationExercises.md│   │   └── ...│   ├── Translations/           # Language-specific versions (e.g., /vi, /es, /fr)│   │   └── vi/│   │       ├── README_vi.md│   │       └── DaoMo_NguyenTac.md│   └── Resources/              # Links, further reading, simple diagrams│├── 01_TheFlourishingStart/     # Foundational Human Development (Conception to Early Childhood)│   ├── README.md               # Importance of the first 1000 days│   ├── Principles/│   │   ├── 01_OptimalPrenatalWellbeing.md│   │   ├── 02_SecureAttachmentNurturing.md│   │   └── ...│   ├── Practices_for_Caregivers/│   │   ├── 01_ResponsiveInfantInteraction.md│   │   └── ...│   ├── Translations/│   └── Resources/│├── 02_EcologicalIntegrity/     # Ensuring Harmony with Biological Life & Environment│   ├── README.md               # Interconnectedness of human & planetary health│   ├── Principles/│   │   ├── 01_UnderstandingEcosystems.md│   │   ├── 02_SustainableLiving.md│   │   └── ...│   ├── Frameworks_Actionables/ # Practical guides, community models│   │   ├── 01_RegenerativeAgricultureBasics.md│   │   ├── 02_CommunityConservationModels.md│   │   └── ...│   ├── Translations/│   └── Resources/│├── 03_UniversalBasicNeeds/     # Frameworks for Food, Water, Shelter, Energy for All│   ├── README.md               # Addressing fundamental human requirements│   ├── Frameworks_Models/│   │   ├── 01_SustainableFoodSystems.md│   │   ├── 02_CleanWaterAccessSolutions.md│   │   └── ...│   ├── OpenSourceTech_Solutions/ # Links/summaries of relevant open technologies│   ├── CaseStudies/│   ├── Translations/│   └── Resources/│├── 04_GlobalHealth_DiseaseEradication/ # Addressing Major Diseases & Promoting Universal Health│   ├── README.md               # Vision for reduced disease burden│   ├── KnowledgeBase_Prevention/│   │   ├── 01_UnderstandingCommonDiseases.md│   │   ├── 02_PrinciplesOfPublicHealth.md│   │   └── ...│   ├── OpenResearch_Links/│   ├── CommunityHealth_Advocacy/│   ├── Translations/│   └── Resources/│├── 05_GlobalPeace_Cooperation/ # Frameworks for Lasting Peace & Collaboration│   ├── README.md               # Necessity of peace for human flourishing│   ├── Principles_Of_Peace/│   │   ├── 01_NonviolentCommunication.md│   │   ├── 02_ConflictResolutionTechniques.md│   │   └── ...│   ├── Models_For_Cooperation/│   │   ├── 01_GlobalCitizenshipEducation.md│   │   └── ...│   ├── EducationalResources/│   ├── Translations/│   └── Resources/│├── Glossary.md                 # Definitions of key terms used across the repo├── Methodology.md              # How information is curated, evidence standards└── Community_Hub.md            # Info on discussions, forums, how to get involved
----
-
+├── README.md                   # Main entry point: Vision, Mission, How to Navigate, Core Principles
+├── CONTRIBUTING.md             # Guidelines for contributors
+├── CODE_OF_CONDUCT.md          # Community standards
+├── LICENSE                     # e.g., Creative Commons (CC BY-SA 4.0 or CC0 for maximum openness)
+│
+├── 00_TheOpenPath/             # Core: Individual Well-being & Resilience
+│   ├── README.md               # Introduction to The Open Path
+│   ├── Principles/             # Core tenets (e.g., Mindfulness, Compassion, Self-Awareness)
+│   │   ├── 01_UnderstandingTheMind.md
+│   │   ├── 02_CultivatingAwareness.md
+│   │   └── ...
+│   ├── Practices/              # Actionable techniques & exercises
+│   │   ├── 01_FoundationalMeditations.md
+│   │   ├── 02_EmotionalRegulationExercises.md
+│   │   └── ...
+│   ├── Translations/           # Language-specific versions (e.g., /vi, /es, /fr)
+│   │   └── vi/
+│   │       ├── README_vi.md
+│   │       └── DaoMo_NguyenTac.md
+│   └── Resources/              # Links, further reading, simple diagrams
+│
+├── 01_TheFlourishingStart/     # Foundational Human Development (Conception to Early Childhood)
+│   ├── README.md               # Importance of the first 1000 days
+│   ├── Principles/
+│   │   ├── 01_OptimalPrenatalWellbeing.md
+│   │   ├── 02_SecureAttachmentNurturing.md
+│   │   └── ...
+│   ├── Practices_for_Caregivers/
+│   │   ├── 01_ResponsiveInfantInteraction.md
+│   │   └── ...
+│   ├── Translations/
+│   └── Resources/
+│
+├── 02_EcologicalIntegrity/     # Ensuring Harmony with Biological Life & Environment
+│   ├── README.md               # Interconnectedness of human & planetary health
+│   ├── Principles/
+│   │   ├── 01_UnderstandingEcosystems.md
+│   │   ├── 02_SustainableLiving.md
+│   │   └── ...
+│   ├── Frameworks_Actionables/ # Practical guides, community models
+│   │   ├── 01_RegenerativeAgricultureBasics.md
+│   │   ├── 02_CommunityConservationModels.md
+│   │   └── ...
+│   ├── Translations/
+│   └── Resources/
+│
+├── 03_UniversalBasicNeeds/     # Frameworks for Food, Water, Shelter, Energy for All
+│   ├── README.md               # Addressing fundamental human requirements
+│   ├── Frameworks_Models/
+│   │   ├── 01_SustainableFoodSystems.md
+│   │   ├── 02_CleanWaterAccessSolutions.md
+│   │   └── ...
+│   ├── OpenSourceTech_Solutions/ # Links/summaries of relevant open technologies
+│   ├── CaseStudies/
+│   ├── Translations/
+│   └── Resources/
+│
+├── 04_GlobalHealth_DiseaseEradication/ # Addressing Major Diseases & Promoting Universal Health
+│   ├── README.md               # Vision for reduced disease burden
+│   ├── KnowledgeBase_Prevention/
+│   │   ├── 01_UnderstandingCommonDiseases.md
+│   │   ├── 02_PrinciplesOfPublicHealth.md
+│   │   └── ...
+│   ├── OpenResearch_Links/
+│   ├── CommunityHealth_Advocacy/
+│   ├── Translations/
+│   └── Resources/
+│
+├── 05_GlobalPeace_Cooperation/ # Frameworks for Lasting Peace & Collaboration
+│   ├── README.md               # Necessity of peace for human flourishing
+│   ├── Principles_Of_Peace/
+│   │   ├── 01_NonviolentCommunication.md
+│   │   ├── 02_ConflictResolutionTechniques.md
+│   │   └── ...
+│   ├── Models_For_Cooperation/
+│   │   ├── 01_GlobalCitizenshipEducation.md
+│   │   └── ...
+│   ├── EducationalResources/
+│   ├── Translations/
+│   └── Resources/
+│
+├── Glossary.md                 # Definitions of key terms used across the repo
+├── Methodology.md              # How information is curated, evidence standards
+└── Community_Hub.md            # Info on discussions, forums, how to get involved
+```
 ## Content Philosophy for Each Module:
 
 * **`README.md` (in each module):**
