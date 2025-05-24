@@ -38,7 +38,8 @@
 #### Technical Configuration
 - [x] **Optimized build and deployment**
   - Configured proper base URL for GitHub Pages (`/the-open-path/`)
-  - Set up automated deployment via GitHub Actions
+  - Set up automated deployment via GitHub Actions with pnpm support
+  - Fixed GitHub Actions workflow to properly cache pnpm dependencies
   - Implemented proper caching and build optimization
   - Added comprehensive README with development instructions
 
