@@ -23,6 +23,17 @@ const config: Config = {
   onBrokenLinks: 'warn', // Temporarily set to warn to allow build with translation issues
   onBrokenMarkdownLinks: 'warn',
 
+  // Google site verification
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'google-site-verification',
+        content: 'fqsbgZCRj4E4_HtMh3iAsSBMFqS8AbUtMqOvRveOYOQ',
+      },
+    },
+  ],
+
   // Multi-language support
   i18n: {
     defaultLocale: 'en',
@@ -58,6 +69,10 @@ const config: Config = {
         blog: false, // Disable blog
         theme: {
           customCss: './src/css/custom.css',
+        },
+        gtag: {
+          trackingID: 'G-NRX3NSDM1N',
+          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],
