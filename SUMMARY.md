@@ -12,6 +12,16 @@
 
 * [English](english/README.md)
 * [Español](español/README.md) (Coming Soon)
+* [Tiếng Việt](tiếng-việt/README.md)
+  * [00 - Con Đường Mở](tiếng-việt/00_ConĐườngMở/README.md)
+    * [Hiểu về Tâm trí](tiếng-việt/00_ConĐườngMở/Principles/01_UnderstandingTheMind.md)
+    * [Rèn luyện Nhận thức](tiếng-việt/00_ConĐườngMở/Principles/02_CultivatingAwareness.md)
+    * [Thiền định Nền tảng](tiếng-việt/00_ConĐườngMở/Practices/01_FoundationalMeditations.md)
+    * [Bài tập Điều hòa Cảm xúc](tiếng-việt/00_ConĐườngMở/Practices/02_EmotionalRegulationExercises.md)
+  * [01 - Khởi Đầu Thịnh Vượng](tiếng-việt/01_KhởiĐầuThịnhVượng/README.md)
+    * [Sức khỏe Thai kỳ Tối ưu](tiếng-việt/01_KhởiĐầuThịnhVượng/Principles/01_OptimalPrenatalWellbeing.md)
+    * [Gắn bó An toàn và Nuôi dưỡng](tiếng-việt/01_KhởiĐầuThịnhVượng/Principles/02_SecureAttachmentNurturing.md)
+    * [Tương tác Đáp ứng với Trẻ sơ sinh](tiếng-việt/01_KhởiĐầuThịnhVượng/Practices_for_Caregivers/01_ResponsiveInfantInteraction.md)
 
 ## English
 

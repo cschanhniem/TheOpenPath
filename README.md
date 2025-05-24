@@ -98,7 +98,13 @@ This repository is an open-source, evolving knowledge commons. It begins with th
 │       │   └── ...
 │       └── Resources/
 │
-└── [other language directories will be added here]
+├── español/                   # Spanish language content (coming soon)
+│   └── README.md               # Introduction to Spanish language section
+│
+├── tiếng-việt/                # Vietnamese language content (coming soon)
+│   └── README.md               # Introduction to Vietnamese language section
+│
+└── [other language directories will be added as needed]
 ```
 ## Content Philosophy for Each Module:
 
@@ -115,9 +121,10 @@ This repository is an open-source, evolving knowledge commons. It begins with th
     * Practical, step-by-step instructions where appropriate.
     * Focus on *how* to implement the principles.
 * **Language Organization:**
-    * Content is organized by language directories at the root level (e.g., `english`, `español`, `français`).
+    * Content is organized by language directories at the root level (e.g., `english`, `español`, `tiếng-việt`).
     * Each language directory contains the complete module structure.
     * Aim for conceptual fidelity and cultural relevance in translations.
+    * Currently supporting English with Spanish and Vietnamese translations in progress.
 * **`Resources/`:**
     * Curated links to high-quality external articles, research papers, open-source tools, organizations, and educational materials.
     * Simple diagrams, infographics, or audio/video scripts (content itself, not necessarily media files in the git repo initially to keep it lightweight).
