@@ -1,0 +1,12 @@
+{
+    "title": "The Open Path - Global Flourishing Initiative",
+    "description": "An open-source knowledge commons for individual well-being and global flourishing",
+    "author": "The Open Path Community",
+    "language": "en",
+    "links": {
+        "sidebar": {
+            "GitHub Repository": "https://github.com/the-open-path/the-open-path",
+            "Community Hub": "../Community_Hub.md"
+        }
+    }
+}

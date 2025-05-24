@@ -1,0 +1,12 @@
+{
+    "title": "Con Đường Mở - Sáng Kiến Phát Triển Toàn Diện Toàn Cầu",
+    "description": "Một kho tri thức chung mã nguồn mở cho hạnh phúc cá nhân và phát triển toàn cầu",
+    "author": "Cộng Đồng Con Đường Mở",
+    "language": "vi",
+    "links": {
+        "sidebar": {
+            "Kho GitHub": "https://github.com/the-open-path/the-open-path",
+            "Trung Tâm Cộng Đồng": "../Community_Hub.md"
+        }
+    }
+}

@@ -72,7 +72,7 @@ For those new to Ecological Integrity:
 
 Ecological Integrity connects deeply with other modules in the Global Flourishing Initiative:
 
-- The awareness and compassion developed in [The Open Path](../../00_TheOpenPath/README.md) extends naturally to care for all living beings and systems.
+- The awareness and compassion developed in [The Open Path](../00_TheOpenPath/README.md) extends naturally to care for all living beings and systems.
 
 - The focus on early development in [The Flourishing Start](../01_TheFlourishingStart/README.md) connects to creating healthy environments for children to grow up in.
 

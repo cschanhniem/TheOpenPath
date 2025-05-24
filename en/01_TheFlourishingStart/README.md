@@ -71,7 +71,7 @@ For those new to The Flourishing Start:
 
 The Flourishing Start connects deeply with other modules in the Global Flourishing Initiative:
 
-- The inner awareness and emotional regulation developed in [The Open Path](../../00_TheOpenPath/README.md) supports the presence and attunement needed for responsive caregiving.
+- The inner awareness and emotional regulation developed in [The Open Path](../00_TheOpenPath/README.md) supports the presence and attunement needed for responsive caregiving.
 
 - The environmental considerations in [Ecological Integrity](../02_EcologicalIntegrity/README.md) are crucial for creating healthy environments for developing children.
 

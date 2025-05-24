@@ -4,17 +4,17 @@
 
 ## 00 - The Open Path
 
-* [Introduction](../00_TheOpenPath/README.md)
+* [Introduction](00_TheOpenPath/README.md)
 
 ### Principles
 
-* [Understanding the Mind](../00_TheOpenPath/Principles/01_UnderstandingTheMind.md)
-* [Cultivating Awareness](../00_TheOpenPath/Principles/02_CultivatingAwareness.md)
+* [Understanding the Mind](00_TheOpenPath/Principles/01_UnderstandingTheMind.md)
+* [Cultivating Awareness](00_TheOpenPath/Principles/02_CultivatingAwareness.md)
 
 ### Practices
 
-* [Foundational Meditations](../00_TheOpenPath/Practices/01_FoundationalMeditations.md)
-* [Emotional Regulation Exercises](../00_TheOpenPath/Practices/02_EmotionalRegulationExercises.md)
+* [Foundational Meditations](00_TheOpenPath/Practices/01_FoundationalMeditations.md)
+* [Emotional Regulation Exercises](00_TheOpenPath/Practices/02_EmotionalRegulationExercises.md)
 
 ## 01 - The Flourishing Start
 

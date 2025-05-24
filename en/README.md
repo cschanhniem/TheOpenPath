@@ -4,7 +4,7 @@ This directory contains the English language version of The Open Path - Global F
 
 ## Module Structure
 
-### [00_TheOpenPath](../00_TheOpenPath/README.md)
+### [00_TheOpenPath](00_TheOpenPath/README.md)
 The foundational module focusing on inner awareness, emotional regulation, and personal well-being.
 
 ### [01_TheFlourishingStart](01_TheFlourishingStart/README.md)

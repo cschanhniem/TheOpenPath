@@ -83,7 +83,7 @@ For those new to Global Peace & Cooperation:
 
 Global Peace & Cooperation connects deeply with other modules in the Global Flourishing Initiative:
 
-- The awareness, compassion, and emotional regulation developed in [The Open Path](../../00_TheOpenPath/README.md) provide essential inner capacities for peaceful relationships and conflict transformation.
+- The awareness, compassion, and emotional regulation developed in [The Open Path](../00_TheOpenPath/README.md) provide essential inner capacities for peaceful relationships and conflict transformation.
 
 - The secure attachment and nurturing emphasized in [The Flourishing Start](../01_TheFlourishingStart/README.md) lay the foundation for empathy, trust, and cooperative social behavior.
 

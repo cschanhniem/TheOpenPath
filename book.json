@@ -1,0 +1,40 @@
+{
+    "title": "The Open Path - Global Flourishing Initiative",
+    "description": "An open-source knowledge commons for individual well-being and global flourishing",
+    "author": "The Open Path Community",
+    "language": "en",
+    "gitbook": ">=3.0.0",
+    "plugins": [
+        "search-pro",
+        "advanced-emoji",
+        "mermaid-gb3",
+        "katex",
+        "chart",
+        "todo",
+        "emphasize",
+        "-search",
+        "-lunr"
+    ],
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": ["Gitbook", "The Open Path"]
+        },
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "linkedin": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "twitter", "linkedin", "weibo", "instapaper"
+            ]
+        }
+    },
+    "links": {
+        "sidebar": {
+            "GitHub Repository": "https://github.com/the-open-path/the-open-path"
+        }
+    }
+}

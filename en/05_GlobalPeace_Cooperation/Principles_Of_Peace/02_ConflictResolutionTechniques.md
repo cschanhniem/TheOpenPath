@@ -351,7 +351,7 @@ To develop your conflict resolution capabilities:
 
 3. Learn more about specific processes that might be relevant to your context.
 
-4. Connect conflict resolution with other modules, particularly [Nonviolent Communication](01_NonviolentCommunication.md) and practices from [The Open Path](../../../00_TheOpenPath/README.md).
+4. Connect conflict resolution with other modules, particularly [Nonviolent Communication](01_NonviolentCommunication.md) and practices from [The Open Path](../../00_TheOpenPath/README.md).
 
 5. Remember that conflict resolution is a lifelong practice that develops through experience and reflection.
 

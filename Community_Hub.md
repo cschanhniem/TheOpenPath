@@ -12,7 +12,7 @@ This document serves as your guide to connecting with the community, contributin
 
 If you're primarily interested in applying these teachings in your own life:
 
-- **Start with The Open Path**: Begin with the foundational practices in [00_TheOpenPath](00_TheOpenPath/README.md) to develop inner awareness and resilience.
+- **Start with The Open Path**: Begin with the foundational practices in [00_TheOpenPath](en/00_TheOpenPath/README.md) to develop inner awareness and resilience.
 
 - **Join Discussion Forums**: Connect with others practicing these approaches through our online forums (coming soon).
 

@@ -1,5 +1,5 @@
 # Languages
 
-* [English](en/)
-* [Español](es/)
-* [Tiếng Việt](vi/)
+* [English](en)
+* [Español](es)
+* [Tiếng Việt](vi)

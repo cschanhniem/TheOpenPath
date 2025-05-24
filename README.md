@@ -2,10 +2,22 @@
 
 **Website:** [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path)
 
+**Multi-Language Support:** This project is available in multiple languages. GitBook will automatically detect the LANGS.md file and provide language selection.
+
 **Vision:** To cultivate a world where every individual is empowered with tools for inner peace, resilience, and wisdom ("The Open Path"), and where humanity collectively leverages open knowledge and collaborative frameworks to address fundamental challenges, fostering sustainable well-being for all beings and the planet.
 
 **Core Philosophy:**
 This repository is an open-source, evolving knowledge commons. It begins with the individual's journey towards self-awareness and well-being and expands to encompass actionable wisdom and frameworks for societal and ecological flourishing. We believe in the interconnectedness of individual well-being and global well-being. All content is intended to be freely shared, adapted, and improved by a global community.
+
+## Available Languages
+
+This project supports multiple languages through GitBook's multi-language structure:
+
+* **[English](en/)** - Complete content with all 6 modules
+* **[Español](es/)** - Partial translation (modules 00-01 completed)
+* **[Tiếng Việt](vi/)** - Partial translation (modules 00-01 completed)
+
+When viewing on GitBook, you can select your preferred language from the language selector. Each language has its own complete navigation and content structure.
 
 ---
 ```

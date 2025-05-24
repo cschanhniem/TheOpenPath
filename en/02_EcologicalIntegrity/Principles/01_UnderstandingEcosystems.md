@@ -258,7 +258,7 @@ To deepen your understanding of ecosystems and ecological integrity:
 
 2. Learn about practical applications in [Regenerative Agriculture Basics](../Frameworks_Actionables/01_RegenerativeAgricultureBasics.md) and [Community Conservation Models](../Frameworks_Actionables/02_CommunityConservationModels.md).
 
-3. Consider how the awareness practices in [The Open Path](../../../00_TheOpenPath/README.md) can deepen your connection to the living world around you.
+3. Consider how the awareness practices in [The Open Path](../../00_TheOpenPath/README.md) can deepen your connection to the living world around you.
 
 ---
 
