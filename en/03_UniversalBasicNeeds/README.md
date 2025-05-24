@@ -83,7 +83,7 @@ For those new to Universal Basic Needs:
 
 Universal Basic Needs connects deeply with other modules in the Global Flourishing Initiative:
 
-- The awareness and compassion developed in [The Open Path](../00_TheOpenPath/README.md) provides the motivation and ethical foundation for ensuring everyone's basic needs are met.
+- The awareness and compassion developed in [The Open Path](../../00_TheOpenPath/README.md) provides the motivation and ethical foundation for ensuring everyone's basic needs are met.
 
 - The focus on early development in [The Flourishing Start](../01_TheFlourishingStart/README.md) highlights how meeting basic needs is especially critical during the first years of life.
 

@@ -83,7 +83,7 @@ For those new to Global Health & Disease Eradication:
 
 Global Health connects deeply with other modules in the Global Flourishing Initiative:
 
-- The awareness and emotional regulation developed in [The Open Path](../00_TheOpenPath/README.md) supports mental health and well-being, which are integral to overall health.
+- The awareness and emotional regulation developed in [The Open Path](../../00_TheOpenPath/README.md) supports mental health and well-being, which are integral to overall health.
 
 - The focus on early development in [The Flourishing Start](../01_TheFlourishingStart/README.md) establishes the foundation for lifelong health and resilience.
 

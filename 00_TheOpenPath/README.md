@@ -68,11 +68,11 @@ For those new to The Open Path:
 
 The Open Path serves as the foundation for all other modules in the Global Flourishing Initiative:
 
-- The inner awareness and resilience developed here supports the nurturing presence needed in [The Flourishing Start](../01_TheFlourishingStart/README.md).
-- The compassion and interconnection cultivated in these practices naturally extends to care for our [Ecological Integrity](../02_EcologicalIntegrity/README.md).
-- The clarity and wisdom developed through these practices enhances our ability to create systems that ensure [Universal Basic Needs](../03_UniversalBasicNeeds/README.md) for all.
-- The emotional regulation and well-being fostered here contributes to [Global Health](../04_GlobalHealth_DiseaseEradication/README.md).
-- The inner peace and compassionate understanding cultivated in these practices forms the foundation for [Global Peace and Cooperation](../05_GlobalPeace_Cooperation/README.md).
+- The inner awareness and resilience developed here supports the nurturing presence needed in [The Flourishing Start](../en/01_TheFlourishingStart/README.md).
+- The compassion and interconnection cultivated in these practices naturally extends to care for our [Ecological Integrity](../en/02_EcologicalIntegrity/README.md).
+- The clarity and wisdom developed through these practices enhances our ability to create systems that ensure [Universal Basic Needs](../en/03_UniversalBasicNeeds/README.md) for all.
+- The emotional regulation and well-being fostered here contributes to [Global Health](../en/04_GlobalHealth_DiseaseEradication/README.md).
+- The inner peace and compassionate understanding cultivated in these practices forms the foundation for [Global Peace and Cooperation](../en/05_GlobalPeace_Cooperation/README.md).
 
 ## Contributing
 

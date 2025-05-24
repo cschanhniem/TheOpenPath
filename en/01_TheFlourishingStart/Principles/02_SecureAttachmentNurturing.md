@@ -239,7 +239,7 @@ To support secure attachment and nurturing relationships:
 
 1. Explore the [Responsive Infant Interaction](../Practices_for_Caregivers/01_ResponsiveInfantInteraction.md) document for specific approaches to building secure attachment through daily interactions.
 
-2. Consider how the principles in [Understanding the Mind](../../00_TheOpenPath/Principles/01_UnderstandingTheMind.md) and [Cultivating Awareness](../../00_TheOpenPath/Principles/02_CultivatingAwareness.md) can support your capacity for attunement and presence with children.
+2. Consider how the principles in [Understanding the Mind](../../../00_TheOpenPath/Principles/01_UnderstandingTheMind.md) and [Cultivating Awareness](../../../00_TheOpenPath/Principles/02_CultivatingAwareness.md) can support your capacity for attunement and presence with children.
 
 3. Remember that attachment is built through thousands of small interactions rather than perfect parenting. Focus on being present and responsive in ordinary moments.
 
