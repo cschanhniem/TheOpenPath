@@ -12,50 +12,50 @@ This directory contains supplementary materials to support your journey on The O
 - Neuroscientific findings on contemplative practices
 - Psychological research on well-being and resilience
 
-### 2. Recommended Reading
-- [Reading List](02_RecommendingReading.md): Carefully curated books, articles, and texts from various wisdom traditions
+### 2. Recommended Reading *(Coming Soon)*
+- Carefully curated books, articles, and texts from various wisdom traditions
 - Classical contemplative texts
 - Modern psychology and neuroscience works
 - Practical guides for daily life application
 - Cross-cultural perspectives on wisdom and well-being
 
-### 3. Visual Aids and Diagrams
-- [Visual Guides](03_VisualAids.md): Mermaid diagrams and visual representations of key concepts
+### 3. Visual Aids and Diagrams *(Coming Soon)*
+- Mermaid diagrams and visual representations of key concepts
 - Mind maps of The Open Path principles
 - Flowcharts for practice sequences
 - Infographics on meditation techniques
 - Progress tracking visualizations
 
-### 4. Audio Guidance
-- [Audio Resources](04_AudioGuidance.md): References to guided meditations and audio teachings
+### 4. Audio Guidance *(Coming Soon)*
+- References to guided meditations and audio teachings
 - Meditation instruction recordings
 - Dharma talks and wisdom teachings
 - Nature sounds and ambient audio for practice
 - Pronunciation guides for traditional terms
 
-### 5. Practice Tools
-- [Practice Aids](05_PracticeTools.md): Practical tools for developing and maintaining your practice
+### 5. Practice Tools *(Coming Soon)*
+- Practical tools for developing and maintaining your practice
 - Daily practice schedules and templates
 - Progress tracking sheets
 - Habit formation guides
 - Troubleshooting common obstacles
 
-### 6. Community Resources
-- [Community Building](06_CommunityResources.md): Guidance for creating and participating in practice communities
+### 6. Community Resources *(Coming Soon)*
+- Guidance for creating and participating in practice communities
 - Starting a meditation group
 - Online community guidelines
 - Retreat planning resources
 - Teaching and sharing guidelines
 
-### 7. Troubleshooting Guide
-- [Common Challenges](07_TroubleshootingGuide.md): Solutions to frequently encountered difficulties
+### 7. Troubleshooting Guide *(Coming Soon)*
+- Solutions to frequently encountered difficulties
 - Working with resistance and obstacles
 - Adapting practices for different life circumstances
 - When to seek additional support
 - Maintaining motivation and consistency
 
-### 8. Cultural Adaptations
-- [Cross-Cultural Guidance](08_CulturalAdaptations.md): Adapting The Open Path for different cultural contexts
+### 8. Cultural Adaptations *(Coming Soon)*
+- Adapting The Open Path for different cultural contexts
 - Honoring diverse wisdom traditions
 - Language and terminology considerations
 - Cultural sensitivity in teaching and sharing
@@ -64,21 +64,21 @@ This directory contains supplementary materials to support your journey on The O
 ## How to Use These Resources
 
 ### For Beginners
-1. Start with the [Visual Aids](03_VisualAids.md) to get an overview of The Open Path structure
-2. Review the [Practice Tools](05_PracticeTools.md) to set up your daily practice
-3. Consult the [Troubleshooting Guide](07_TroubleshootingGuide.md) when encountering difficulties
-4. Explore the [Audio Guidance](04_AudioGuidance.md) for supported practice sessions
+1. Start with the main [Open Path README](../README.md) to get an overview of the framework structure
+2. Begin with the [Scientific Research](01_ScientificResearch.md) to understand the evidence base
+3. Refer to the practice documents for guidance on common challenges
+4. Use the visual diagrams in the main README for supported understanding
 
 ### For Developing Practitioners
 1. Dive into the [Scientific Research](01_ScientificResearch.md) to deepen your understanding
-2. Explore the [Recommended Reading](02_RecommendingReading.md) for continued learning
-3. Use the [Community Resources](06_CommunityResources.md) to connect with others
-4. Consider the [Cultural Adaptations](08_CulturalAdaptations.md) for sharing with diverse groups
+2. Explore additional reading materials as they become available
+3. Connect with others through the practice community
+4. Consider cultural adaptations when sharing with diverse groups
 
 ### For Teachers and Group Leaders
-1. Study all resources thoroughly to provide comprehensive guidance
-2. Use the [Community Resources](06_CommunityResources.md) for group facilitation
-3. Adapt materials using the [Cultural Adaptations](08_CulturalAdaptations.md) guide
+1. Study all available resources thoroughly to provide comprehensive guidance
+2. Use community building principles for group facilitation
+3. Adapt materials thoughtfully for different cultural contexts
 4. Reference the [Scientific Research](01_ScientificResearch.md) to answer questions about efficacy
 
 ## Principles for Using Resources
@@ -173,8 +173,8 @@ If you're new to these resources:
 ## Contact and Support
 
 For questions about these resources or suggestions for improvement:
-- Review the [Troubleshooting Guide](07_TroubleshootingGuide.md) first
-- Consult the [Community Resources](06_CommunityResources.md) for peer support
+- Review the practice documents for guidance on common challenges
+- Connect with the practice community for peer support
 - Refer to the main [Contributing Guidelines](../../../CONTRIBUTING.md) for formal submissions
 
 ---
