@@ -11,7 +11,13 @@
 ## Languages
 
 * [English](english/README.md)
-* [Español](español/README.md) (Coming Soon)
+* [Español](español/README.md)
+  * [00 - El Camino Abierto](español/00_ElCaminoAbierto/README.md)
+    * [Entendiendo la Mente](español/00_ElCaminoAbierto/Principles/01_UnderstandingTheMind.md)
+    * [Cultivando la Conciencia](español/00_ElCaminoAbierto/Principles/02_CultivatingAwareness.md)
+    * [Meditaciones Fundamentales](español/00_ElCaminoAbierto/Practices/01_FoundationalMeditations.md)
+    * [Ejercicios de Regulación Emocional](español/00_ElCaminoAbierto/Practices/02_EmotionalRegulationExercises.md)
+  * [01 - El Inicio Floreciente](español/01_ElInicioFloreciente/README.md)
 * [Tiếng Việt](tiếng-việt/README.md)
   * [00 - Con Đường Mở](tiếng-việt/00_ConĐườngMở/README.md)
     * [Hiểu về Tâm trí](tiếng-việt/00_ConĐườngMở/Principles/01_UnderstandingTheMind.md)
