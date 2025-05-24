@@ -1,12 +1,5 @@
 {
     "title": "El Camino Abierto - Iniciativa de Florecimiento Global",
     "description": "Un commons de conocimiento de código abierto para el bienestar individual y el florecimiento global",
-    "author": "La Comunidad del Camino Abierto",
-    "language": "es",
-    "links": {
-        "sidebar": {
-            "Repositorio GitHub": "https://github.com/the-open-path/the-open-path",
-            "Centro Comunitario": "../Community_Hub.md"
-        }
-    }
+    "language": "es"
 }

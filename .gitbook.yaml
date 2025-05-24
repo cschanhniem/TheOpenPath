@@ -3,7 +3,6 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
-  langs: LANGS.md
 
 redirects:
   en/00_theOpenPath/README: en/00_TheOpenPath/README.md

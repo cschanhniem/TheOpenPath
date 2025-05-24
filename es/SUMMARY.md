@@ -26,16 +26,16 @@
 
 ## 02 - Integridad Ecológica
 
-* [Introducción](02_IntegridadEcológica/README.md) (Próximamente)
+* [Introducción](02_IntegridadEcológica/README.md)
 
 ## 03 - Necesidades Básicas Universales
 
-* [Introducción](03_NecesidadesBásicasUniversales/README.md) (Próximamente)
+* [Introducción](03_NecesidadesBásicasUniversales/README.md)
 
 ## 04 - Salud Global y Erradicación de Enfermedades
 
-* [Introducción](04_SaludGlobal_ErradicaciónDeEnfermedades/README.md) (Próximamente)
+* [Introducción](04_SaludGlobal_ErradicaciónDeEnfermedades/README.md)
 
 ## 05 - Paz Global y Cooperación
 
-* [Introducción](05_PazGlobal_Cooperación/README.md) (Próximamente)
+* [Introducción](05_PazGlobal_Cooperación/README.md)

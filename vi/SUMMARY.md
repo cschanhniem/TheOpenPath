@@ -31,16 +31,16 @@
 
 ## 02 - Tính Toàn Vẹn Sinh Thái
 
-* [Giới thiệu](02_TínhToànVẹnSinhThái/README.md) (Sắp có)
+* [Giới thiệu](02_TínhToànVẹnSinhThái/README.md)
 
 ## 03 - Nhu Cầu Cơ Bản Toàn Cầu
 
-* [Giới thiệu](03_NhuCầuCơBảnToànCầu/README.md) (Sắp có)
+* [Giới thiệu](03_NhuCầuCơBảnToànCầu/README.md)
 
 ## 04 - Sức Khỏe Toàn Cầu & Xóa Bỏ Dịch Bệnh
 
-* [Giới thiệu](04_SứcKhỏeToànCầu_XóaBỏDịchBệnh/README.md) (Sắp có)
+* [Giới thiệu](04_SứcKhỏeToànCầu_XóaBỏDịchBệnh/README.md)
 
 ## 05 - Hòa Bình Toàn Cầu & Hợp Tác
 
-* [Giới thiệu](05_HòaBìnhToànCầu_HợpTác/README.md) (Sắp có)
+* [Giới thiệu](05_HòaBìnhToànCầu_HợpTác/README.md)
