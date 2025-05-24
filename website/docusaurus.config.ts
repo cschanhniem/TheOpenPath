@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'The Open Path - Global Flourishing Initiative',
   tagline: 'An open-source knowledge commons for individual well-being and global flourishing',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://cschanhniem.github.io',
