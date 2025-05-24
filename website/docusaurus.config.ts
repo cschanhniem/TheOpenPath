@@ -1,0 +1,135 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+
+// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+
+const config: Config = {
+  title: 'The Open Path - Global Flourishing Initiative',
+  tagline: 'An open-source knowledge commons for individual well-being and global flourishing',
+  favicon: 'img/favicon.ico',
+
+  // Set the production url of your site here
+  url: 'https://james.github.io',
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: '/the-open-path/',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
+  organizationName: 'james', // Usually your GitHub org/user name.
+  projectName: 'the-open-path', // Usually your repo name.
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  // Multi-language support (temporarily disabled other languages)
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+      },
+    },
+  },
+
+  presets: [
+    [
+      'classic',
+      {
+        docs: {
+          sidebarPath: './sidebars.ts',
+          editUrl: 'https://github.com/james/the-open-path/tree/main/',
+          routeBasePath: '/', // Serve docs at the site's root
+        },
+        blog: false, // Disable blog
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      } satisfies Preset.Options,
+    ],
+  ],
+
+  themeConfig: {
+    // Replace with your project's social card
+    image: 'img/docusaurus-social-card.jpg',
+    navbar: {
+      title: 'The Open Path',
+      logo: {
+        alt: 'The Open Path Logo',
+        src: 'img/logo.svg',
+      },
+      items: [
+        {
+          type: 'docSidebar',
+          sidebarId: 'mainSidebar',
+          position: 'left',
+          label: 'Documentation',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
+          href: 'https://github.com/james/the-open-path',
+          label: 'GitHub',
+          position: 'right',
+        },
+      ],
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Documentation',
+          items: [
+            {
+              label: 'The Open Path',
+              to: '/',
+            },
+            {
+              label: 'Contributing',
+              to: '/contributing',
+            },
+          ],
+        },
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'GitHub Discussions',
+              href: 'https://github.com/james/the-open-path/discussions',
+            },
+            {
+              label: 'Issues',
+              href: 'https://github.com/james/the-open-path/issues',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'GitHub',
+              href: 'https://github.com/james/the-open-path',
+            },
+            {
+              label: 'License',
+              to: '/license',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} The Open Path - Global Flourishing Initiative. Licensed under Creative Commons.`,
+    },
+    prism: {
+      theme: prismThemes.github,
+      darkTheme: prismThemes.dracula,
+    },
+  } satisfies Preset.ThemeConfig,
+};
+
+export default config;
