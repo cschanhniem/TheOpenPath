@@ -27,7 +27,7 @@ The community will be characterized by:
 
 ### 1. GitBook Website
 
-Our primary public-facing platform at [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path):
+Our primary public-facing platform at [https://cschanhniem.github.io/TheOpenPath/](https://cschanhniem.github.io/TheOpenPath/):
 
 #### Purpose
 - Provide accessible, beautifully formatted content for readers worldwide

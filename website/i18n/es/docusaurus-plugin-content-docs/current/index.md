@@ -1,6 +1,6 @@
 # El Camino Abierto - Iniciativa de Florecimiento Global
 
-**Sitio Web:** [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path)
+**Sitio Web:** [https://cschanhniem.github.io/TheOpenPath/](https://cschanhniem.github.io/TheOpenPath/)
 
 **Visión:** Cultivar un mundo donde cada individuo esté empoderado con herramientas para la paz interior, la resistencia y la sabiduría ("El Camino Abierto"), y donde la humanidad aproveche colectivamente el conocimiento abierto y marcos colaborativos para abordar desafíos fundamentales, fomentando el bienestar sostenible para todos los seres y el planeta.
 

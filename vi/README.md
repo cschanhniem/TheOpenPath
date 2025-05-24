@@ -1,6 +1,6 @@
 # Con Đường Mở - Sáng Kiến Phát Triển Toàn Diện Toàn Cầu
 
-**Trang Web:** [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path)
+**Trang Web:** [https://cschanhniem.github.io/TheOpenPath/](https://cschanhniem.github.io/TheOpenPath/)
 
 **Tầm Nhìn:** Nuôi dưỡng một thế giới nơi mỗi cá nhân được trao quyền với các công cụ cho hòa bình nội tâm, khả năng phục hồi và trí tuệ ("Con Đường Mở"), và nơi nhân loại cùng nhau tận dụng kiến thức mở và các khung hợp tác để giải quyết những thách thức cơ bản, thúc đẩy hạnh phúc bền vững cho tất cả chúng sinh và hành tinh.
 

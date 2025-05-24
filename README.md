@@ -1,6 +1,6 @@
 # The Open Path - Global Flourishing Initiative
 
-**Website:** [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path)
+**Website:** [https://cschanhniem.github.io/TheOpenPath/](https://cschanhniem.github.io/TheOpenPath/)
 
 **Multi-Language Support:** This project is available in multiple languages. GitBook will automatically detect the LANGS.md file and provide language selection.
 
@@ -169,7 +169,7 @@ When viewing on GitBook, you can select your preferred language from the languag
 
 * **Git & GitHub:** For version control, collaboration, and issue tracking.
 * **Markdown:** For all textual content due to its simplicity, readability, and version-control friendliness.
-* **GitBook:** Our public-facing website at [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path) provides a beautifully rendered, easily navigable interface for the content. The repository follows GitBook's multi-language structure with LANGS.md and language-specific directories.
+* **GitBook:** Our public-facing website at [https://cschanhniem.github.io/TheOpenPath/](https://cschanhniem.github.io/TheOpenPath/) provides a beautifully rendered, easily navigable interface for the content. The repository follows GitBook's multi-language structure with LANGS.md and language-specific directories.
 * **Translation Management Platform (Future Consideration):** If translation becomes a large-scale effort, platforms like Weblate or Crowdin could be explored.
 
 ## Community Engagement:

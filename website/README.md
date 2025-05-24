@@ -57,7 +57,7 @@ Start the development server:
 pnpm start
 ```
 
-This opens the website at `http://localhost:3000/the-open-path/` with hot reloading.
+This opens the website at `http://localhost:3000/TheOpenPath/` with hot reloading.
 
 ### Building
 
@@ -83,9 +83,9 @@ pnpm serve
 
 The main configuration is in `docusaurus.config.ts`. Key settings include:
 
-- **Base URL**: `/the-open-path/` (for GitHub Pages)
-- **Organization**: `your-github-username` (update this)
-- **Repository**: `the-open-path`
+- **Base URL**: `/TheOpenPath/` (for GitHub Pages)
+- **Organization**: `cschanhniem`
+- **Repository**: `TheOpenPath`
 - **Deployment**: GitHub Pages via GitHub Actions
 
 ### Navigation
@@ -114,7 +114,7 @@ The site is configured for multi-language support but currently only English is 
 
 The site automatically deploys to GitHub Pages when changes are pushed to the `main` branch via the GitHub Actions workflow in `.github/workflows/deploy.yml`.
 
-**Important**: Update the `organizationName` in `docusaurus.config.ts` to match your GitHub username.
+**Note**: The configuration is already set up for the `cschanhniem/TheOpenPath` repository.
 
 ### Manual Deployment
 
