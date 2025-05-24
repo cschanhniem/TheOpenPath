@@ -70,7 +70,7 @@ const config: Config = {
       title: 'The Open Path',
       logo: {
         alt: 'The Open Path Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
