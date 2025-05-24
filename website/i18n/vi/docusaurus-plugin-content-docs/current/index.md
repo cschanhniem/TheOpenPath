@@ -11,22 +11,22 @@ Kho lưu trữ này là một kho tri thức chung mở và phát triển. Nó b
 
 Phiên bản tiếng Việt này chứa sáu mô-đun chính giải quyết các khía cạnh khác nhau của sự phát triển toàn diện của con người từ cấp độ cá nhân đến toàn cầu:
 
-### [00_ConĐườngMở](00_ConĐườngMở/README.md)
+### [00_ConĐườngMở](ConĐườngMở/)
 Mô-đun nền tảng tập trung vào nhận thức nội tâm, điều hòa cảm xúc và hạnh phúc cá nhân.
 
-### [01_KhởiĐầuThịnhVượng](01_KhởiĐầuThịnhVượng/README.md)
+### [01_KhởiĐầuThịnhVượng](KhởiĐầuThịnhVượng/)
 Giải quyết một nghìn ngày đầu đời quan trọng và sự phát triển trong thời thơ ấu.
 
-### [02_TínhToànVẹnSinhThái](02_TínhToànVẹnSinhThái/README.md)
+### [02_TínhToànVẹnSinhThái](TínhToànVẹnSinhThái/)
 Khám phá mối quan hệ của chúng ta với thế giới tự nhiên và các phương thức sống bền vững. *(Sắp có)*
 
-### [03_NhuCầuCơBảnToànCầu](03_NhuCầuCơBảnToànCầu/README.md)
+### [03_NhuCầuCơBảnToànCầu](NhuCầuCơBảnToànCầu/)
 Tập trung vào việc đảm bảo mọi người đều được tiếp cận với các nhu cầu cơ bản cho một cuộc sống đáng trân trọng. *(Sắp có)*
 
-### [04_SứcKhỏeToànCầu_XóaBỏDịchBệnh](04_SứcKhỏeToànCầu_XóaBỏDịchBệnh/README.md)
+### [04_SứcKhỏeToànCầu_XóaBỏDịchBệnh](SứcKhỏeToànCầu_XóaBỏDịchBệnh/)
 Giải quyết các thách thức về sức khỏe và phòng ngừa bệnh tật ở cấp độ cá nhân và toàn cầu. *(Sắp có)*
 
-### [05_HòaBìnhToànCầu_HợpTác](05_HòaBìnhToànCầu_HợpTác/README.md)
+### [05_HòaBìnhToànCầu_HợpTác](HòaBìnhToànCầu_HợpTác/)
 Khám phá con đường dẫn đến hòa bình, chuyển hóa xung đột và giải quyết vấn đề hợp tác. *(Sắp có)*
 
 ## Tình Trạng Dịch Thuật
@@ -43,11 +43,11 @@ Chúng tôi đang xây dựng một cộng đồng sôi động xung quanh Con �
 * **Cuộc Họp Ảo:** Các cuộc họp trực tuyến thường xuyên để thực hành và hợp tác (sắp có).
 * **Mạng Xã Hội:** Các kênh để nâng cao nhận thức và tham gia rộng rãi hơn (đang phát triển).
 
-Để biết thêm chi tiết về cách tham gia, hãy xem [Trung Tâm Cộng Đồng](../Community_Hub.md) và [Chiến Lược Tham Gia Cộng Đồng](../Community_Engagement_Strategy.md) của chúng tôi.
+Để biết thêm chi tiết về cách tham gia, hãy xem [Trung Tâm Cộng Đồng](/Community_Hub) và [Chiến Lược Tham Gia Cộng Đồng](/Community_Engagement_Strategy) của chúng tôi.
 
 ## Đóng Góp
 
-Chúng tôi hoan nghênh những đóng góp cho dự án này. Vui lòng xem [Hướng Dẫn Đóng Góp](../CONTRIBUTING.md) của chúng tôi để biết thông tin về cách tham gia.
+Chúng tôi hoan nghênh những đóng góp cho dự án này. Vui lòng xem [Hướng Dẫn Đóng Góp](/contributing) của chúng tôi để biết thông tin về cách tham gia.
 
 ---
 
