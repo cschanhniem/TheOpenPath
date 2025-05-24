@@ -2,16 +2,16 @@ root: ./
 
 structure:
   readme: README.md
-  summary: SUMMARY.md
+  langs: LANGS.md
 
 redirects:
-  english/00_theOpenPath/README: english/00_TheOpenPath/README.md
-  english/01_theFlourishingStart/README: english/01_TheFlourishingStart/README.md
-  english/02_ecologicalIntegrity/README: english/02_EcologicalIntegrity/README.md
-  english/03_universalBasicNeeds/README: english/03_UniversalBasicNeeds/README.md
-  english/04_globalHealth_diseaseEradication/README: english/04_GlobalHealth_DiseaseEradication/README.md
-  english/05_globalPeace_cooperation/README: english/05_GlobalPeace_Cooperation/README.md
-  español/README: español/README.md
-  español/00_elCaminoAbierto/README: español/00_ElCaminoAbierto/README.md
-  español/01_elInicioFloreciente/README: español/01_ElInicioFloreciente/README.md
-  tiếng-việt/README: tiếng-việt/README.md
+  en/00_theOpenPath/README: en/00_TheOpenPath/README.md
+  en/01_theFlourishingStart/README: en/01_TheFlourishingStart/README.md
+  en/02_ecologicalIntegrity/README: en/02_EcologicalIntegrity/README.md
+  en/03_universalBasicNeeds/README: en/03_UniversalBasicNeeds/README.md
+  en/04_globalHealth_diseaseEradication/README: en/04_GlobalHealth_DiseaseEradication/README.md
+  en/05_globalPeace_cooperation/README: en/05_GlobalPeace_Cooperation/README.md
+  es/00_elCaminoAbierto/README: es/00_ElCaminoAbierto/README.md
+  es/01_elInicioFloreciente/README: es/01_ElInicioFloreciente/README.md
+  vi/00_conDuongMo/README: vi/00_ConĐườngMở/README.md
+  vi/01_khoiDauThinhVuong/README: vi/01_KhởiĐầuThịnhVượng/README.md

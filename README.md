@@ -98,11 +98,20 @@ This repository is an open-source, evolving knowledge commons. It begins with th
 │       │   └── ...
 │       └── Resources/
 │
-├── español/                   # Spanish language content (coming soon)
-│   └── README.md               # Introduction to Spanish language section
+├── en/                        # English language content (complete)
+│   ├── README.md               # Introduction to English language section
+│   ├── SUMMARY.md              # GitBook navigation for English
+│   └── [all 6 modules with complete content]
 │
-├── tiếng-việt/                # Vietnamese language content (coming soon)
-│   └── README.md               # Introduction to Vietnamese language section
+├── es/                        # Spanish language content (partial)
+│   ├── README.md               # Introduction to Spanish language section
+│   ├── SUMMARY.md              # GitBook navigation for Spanish
+│   └── [modules 00-01 translated]
+│
+├── vi/                        # Vietnamese language content (partial)
+│   ├── README.md               # Introduction to Vietnamese language section
+│   ├── SUMMARY.md              # GitBook navigation for Vietnamese
+│   └── [modules 00-01 translated]
 │
 └── [other language directories will be added as needed]
 ```
@@ -121,10 +130,10 @@ This repository is an open-source, evolving knowledge commons. It begins with th
     * Practical, step-by-step instructions where appropriate.
     * Focus on *how* to implement the principles.
 * **Language Organization:**
-    * Content is organized by language directories at the root level (e.g., `english`, `español`, `tiếng-việt`).
-    * Each language directory contains the complete module structure.
+    * Content follows GitBook's multi-language structure with language directories at the root level (e.g., `en`, `es`, `vi`).
+    * Each language directory contains the complete module structure and its own SUMMARY.md for navigation.
     * Aim for conceptual fidelity and cultural relevance in translations.
-    * Currently supporting English with Spanish and Vietnamese translations in progress.
+    * Currently supporting English (complete) with Spanish and Vietnamese translations (modules 00-01) in progress.
 * **`Resources/`:**
     * Curated links to high-quality external articles, research papers, open-source tools, organizations, and educational materials.
     * Simple diagrams, infographics, or audio/video scripts (content itself, not necessarily media files in the git repo initially to keep it lightweight).
@@ -148,7 +157,7 @@ This repository is an open-source, evolving knowledge commons. It begins with th
 
 * **Git & GitHub:** For version control, collaboration, and issue tracking.
 * **Markdown:** For all textual content due to its simplicity, readability, and version-control friendliness.
-* **GitBook:** Our public-facing website at [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path) provides a beautifully rendered, easily navigable interface for the content.
+* **GitBook:** Our public-facing website at [https://theopenpath.gitbook.io/the-open-path](https://theopenpath.gitbook.io/the-open-path) provides a beautifully rendered, easily navigable interface for the content. The repository follows GitBook's multi-language structure with LANGS.md and language-specific directories.
 * **Translation Management Platform (Future Consideration):** If translation becomes a large-scale effort, platforms like Weblate or Crowdin could be explored.
 
 ## Community Engagement:
