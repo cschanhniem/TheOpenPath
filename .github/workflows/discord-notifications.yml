@@ -1,0 +1,173 @@
+name: Discord Community Notifications
+
+on:
+  issues:
+    types: [opened, closed, reopened]
+  pull_request:
+    types: [opened, closed, merged, ready_for_review]
+  discussion:
+    types: [created]
+  release:
+    types: [published]
+  push:
+    branches: [main]
+    paths:
+      - 'en/**'
+      - 'es/**'
+      - 'vi/**'
+      - 'website/**'
+
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    if: github.repository == 'cschanhniem/TheOpenPath'
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Send Discord notification for new issues
+      if: github.event_name == 'issues' && github.event.action == 'opened'
+      uses: Ilshidur/action-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      with:
+        args: |
+          🆕 **New Issue Created**
+          **Title:** ${{ github.event.issue.title }}
+          **Author:** ${{ github.event.issue.user.login }}
+          **Labels:** ${{ join(github.event.issue.labels.*.name, ', ') }}
+          
+          ${{ github.event.issue.body && format('**Description:** {0}', github.event.issue.body) || '' }}
+          
+          🔗 [View Issue](${{ github.event.issue.html_url }})
+          
+          *Ready to help? Check out our [good first issues](https://github.com/cschanhniem/TheOpenPath/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)!*
+
+    - name: Send Discord notification for closed issues
+      if: github.event_name == 'issues' && github.event.action == 'closed'
+      uses: Ilshidur/action-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      with:
+        args: |
+          ✅ **Issue Resolved**
+          **Title:** ${{ github.event.issue.title }}
+          **Closed by:** ${{ github.actor }}
+          
+          🔗 [View Issue](${{ github.event.issue.html_url }})
+          
+          *Thank you for contributing to The Open Path! 🌱*
+
+    - name: Send Discord notification for new PRs
+      if: github.event_name == 'pull_request' && github.event.action == 'opened'
+      uses: Ilshidur/action-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      with:
+        args: |
+          🔄 **New Pull Request**
+          **Title:** ${{ github.event.pull_request.title }}
+          **Author:** ${{ github.event.pull_request.user.login }}
+          **Changes:** +${{ github.event.pull_request.additions }} -${{ github.event.pull_request.deletions }}
+          
+          ${{ github.event.pull_request.body && format('**Description:** {0}', github.event.pull_request.body) || '' }}
+          
+          🔗 [Review PR](${{ github.event.pull_request.html_url }})
+
+    - name: Send Discord notification for merged PRs
+      if: github.event_name == 'pull_request' && github.event.pull_request.merged == true
+      uses: Ilshidur/action-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      with:
+        args: |
+          🎉 **Pull Request Merged**
+          **Title:** ${{ github.event.pull_request.title }}
+          **Author:** ${{ github.event.pull_request.user.login }}
+          **Merged by:** ${{ github.actor }}
+          
+          🔗 [View Changes](${{ github.event.pull_request.html_url }})
+          
+          *Another step forward in our journey toward global flourishing! 🌍*
+
+    - name: Send Discord notification for new discussions
+      if: github.event_name == 'discussion' && github.event.action == 'created'
+      uses: Ilshidur/action-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      with:
+        args: |
+          💬 **New Discussion Started**
+          **Title:** ${{ github.event.discussion.title }}
+          **Author:** ${{ github.event.discussion.user.login }}
+          **Category:** ${{ github.event.discussion.category.name }}
+          
+          🔗 [Join Discussion](${{ github.event.discussion.html_url }})
+          
+          *Share your thoughts and connect with the community!*
+
+    - name: Send Discord notification for releases
+      if: github.event_name == 'release' && github.event.action == 'published'
+      uses: Ilshidur/action-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      with:
+        args: |
+          🚀 **New Release Published**
+          **Version:** ${{ github.event.release.tag_name }}
+          **Title:** ${{ github.event.release.name }}
+          
+          ${{ github.event.release.body && format('**Release Notes:**\n{0}', github.event.release.body) || '' }}
+          
+          🔗 [View Release](${{ github.event.release.html_url }})
+          
+          *The Open Path continues to evolve! 🌱*
+
+    - name: Send Discord notification for content updates
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      uses: Ilshidur/action-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      with:
+        args: |
+          📝 **Content Updated**
+          **Commits:** ${{ github.event.commits[0].message }}
+          **Author:** ${{ github.event.commits[0].author.name }}
+          
+          🔗 [View Changes](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
+          
+          *Fresh wisdom added to The Open Path! Check out the latest updates.*
+
+    - name: Send welcome message for first-time contributors
+      if: github.event_name == 'pull_request' && github.event.action == 'opened'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const { data: pullRequests } = await github.rest.pulls.list({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'all',
+            creator: context.payload.pull_request.user.login
+          });
+          
+          if (pullRequests.length === 1) {
+            // This is their first PR
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.pull_request.number,
+              body: `🎉 Welcome to The Open Path community, @${context.payload.pull_request.user.login}! 
+
+Thank you for your first contribution. Your participation helps build a knowledge commons for global flourishing.
+
+**What happens next:**
+- Our team will review your changes
+- Feel free to join our [Discord community](https://discord.gg/theopenpath) 
+- Check out more ways to contribute in our [Contributing Guide](https://github.com/cschanhniem/TheOpenPath/blob/main/CONTRIBUTING.md)
+
+**Questions?** Don't hesitate to ask in the comments below or in our [GitHub Discussions](https://github.com/cschanhniem/TheOpenPath/discussions).
+
+*"The journey of a thousand miles begins with a single step." - Lao Tzu* 🌱`
+            });
+          }

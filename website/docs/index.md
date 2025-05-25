@@ -93,7 +93,7 @@ The Open Path provides **6 interconnected modules** that guide you from personal
 
 ### 🌍 Global Community
 
-- **🗣️ [Discord](https://discord.gg/theopenpath)** - Real-time chat and collaboration
+- **🗣️ [Discord](https://discord.gg/aJuhbNVU)** - Real-time chat and collaboration
 - **💬 [GitHub Discussions](https://github.com/cschanhniem/TheOpenPath/discussions)** - Long-form Q&A and ideas
 - **📧 [Newsletter](https://buttondown.email/theopenpath)** - Monthly updates and stories
 - **🌐 [Local Circles](https://forms.gle/localcircles)** - In-person practice groups
