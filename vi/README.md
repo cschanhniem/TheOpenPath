@@ -1,54 +1,31 @@
-# Con Đường Mở - Sáng Kiến Phát Triển Toàn Diện Toàn Cầu
+# Con Đường Mở - Sáng Kiến Thịnh Vượng Toàn Cầu (Tiếng Việt)
 
-**Trang Web:** [https://cschanhniem.github.io/TheOpenPath/](https://cschanhniem.github.io/TheOpenPath/)
-
-**Tầm Nhìn:** Nuôi dưỡng một thế giới nơi mỗi cá nhân được trao quyền với các công cụ cho hòa bình nội tâm, khả năng phục hồi và trí tuệ ("Con Đường Mở"), và nơi nhân loại cùng nhau tận dụng kiến thức mở và các khung hợp tác để giải quyết những thách thức cơ bản, thúc đẩy hạnh phúc bền vững cho tất cả chúng sinh và hành tinh.
-
-**Triết Lý Cốt Lõi:**
-Kho lưu trữ này là một kho tri thức chung mở và phát triển. Nó bắt đầu với hành trình cá nhân hướng tới tự nhận thức và hạnh phúc và mở rộng để bao gồm trí tuệ có thể hành động và các khung cho sự phát triển xã hội và sinh thái. Chúng tôi tin vào sự kết nối giữa hạnh phúc cá nhân và hạnh phúc toàn cầu. Tất cả nội dung được dự định để chia sẻ tự do, thích ứng và cải thiện bởi một cộng đồng toàn cầu.
+Thư mục này chứa phiên bản tiếng Việt của Con Đường Mở - Sáng Kiến Thịnh Vượng Toàn Cầu. Nội dung được tổ chức thành sáu mô-đun chính, mỗi mô-đun đề cập đến các khía cạnh khác nhau của sự thịnh vượng của con người từ quy mô cá nhân đến toàn cầu.
 
 ## Cấu Trúc Mô-đun
 
-Phiên bản tiếng Việt này chứa sáu mô-đun chính giải quyết các khía cạnh khác nhau của sự phát triển toàn diện của con người từ cấp độ cá nhân đến toàn cầu:
-
 ### [00_ConĐườngMở](00_ConĐườngMở/README.md)
-Mô-đun nền tảng tập trung vào nhận thức nội tâm, điều hòa cảm xúc và hạnh phúc cá nhân.
+Mô-đun nền tảng tập trung vào nhận thức nội tâm, điều chỉnh cảm xúc và sự an lạc cá nhân.
 
 ### [01_KhởiĐầuThịnhVượng](01_KhởiĐầuThịnhVượng/README.md)
-Giải quyết một nghìn ngày đầu đời quan trọng và sự phát triển trong thời thơ ấu.
+Đề cập đến một nghìn ngày đầu đời quan trọng và sự phát triển sớm của trẻ nhỏ.
 
 ### [02_TínhToànVẹnSinhThái](02_TínhToànVẹnSinhThái/README.md)
-Khám phá mối quan hệ của chúng ta với thế giới tự nhiên và các phương thức sống bền vững. *(Sắp có)*
+Khám phá mối quan hệ của chúng ta với thế giới tự nhiên và các thực hành sống bền vững.
 
 ### [03_NhuCầuCơBảnToànCầu](03_NhuCầuCơBảnToànCầu/README.md)
-Tập trung vào việc đảm bảo mọi người đều được tiếp cận với các nhu cầu cơ bản cho một cuộc sống đáng trân trọng. *(Sắp có)*
+Tập trung vào việc đảm bảo mọi người đều được tiếp cận với những nhu yếu phẩm cơ bản cho một cuộc sống phẩm giá.
 
 ### [04_SứcKhỏeToànCầu_XóaBỏDịchBệnh](04_SứcKhỏeToànCầu_XóaBỏDịchBệnh/README.md)
-Giải quyết các thách thức về sức khỏe và phòng ngừa bệnh tật ở cấp độ cá nhân và toàn cầu. *(Sắp có)*
+Giải quyết các thách thức về sức khỏe và phòng chống dịch bệnh ở quy mô cá nhân và toàn cầu.
 
 ### [05_HòaBìnhToànCầu_HợpTác](05_HòaBìnhToànCầu_HợpTác/README.md)
-Khám phá con đường dẫn đến hòa bình, chuyển hóa xung đột và giải quyết vấn đề hợp tác. *(Sắp có)*
+Khám phá các con đường dẫn đến hòa bình, chuyển hóa xung đột và giải quyết vấn đề hợp tác.
 
-## Tình Trạng Dịch Thuật
+## Ghi Chú Dịch Thuật
 
-Hiện tại, các mô-đun 00 và 01 đã được dịch sang tiếng Việt với nội dung đầy đủ. Các mô-đun còn lại đang trong quá trình dịch thuật.
-
-## Tham Gia Cộng Đồng
-
-Chúng tôi đang xây dựng một cộng đồng sôi động xung quanh Con Đường Mở - Sáng Kiến Phát Triển Toàn Diện Toàn Cầu. Chiến lược tham gia cộng đồng của chúng tôi bao gồm:
-
-* **Trang Web GitBook:** Nền tảng chính hướng tới công chúng của chúng tôi cho nội dung dễ tiếp cận.
-* **Kho GitHub:** Môi trường phát triển hợp tác của chúng tôi để tạo nội dung.
-* **Diễn Đàn Thảo Luận:** Không gian dành riêng cho cuộc trò chuyện sâu sắc (sắp có).
-* **Cuộc Họp Ảo:** Các cuộc họp trực tuyến thường xuyên để thực hành và hợp tác (sắp có).
-* **Mạng Xã Hội:** Các kênh để nâng cao nhận thức và tham gia rộng rãi hơn (đang phát triển).
-
-Để biết thêm chi tiết về cách tham gia, hãy xem [Trung Tâm Cộng Đồng](../Community_Hub.md) và [Chiến Lược Tham Gia Cộng Đồng](../Community_Engagement_Strategy.md) của chúng tôi.
-
-## Đóng Góp
-
-Chúng tôi hoan nghênh những đóng góp cho dự án này. Vui lòng xem [Hướng Dẫn Đóng Góp](../CONTRIBUTING.md) của chúng tôi để biết thông tin về cách tham gia.
+Dự án này được thiết kế để đa ngôn ngữ. Các phiên bản ngôn ngữ khác sẽ được thêm vào trong các thư mục song song cùng cấp với thư mục tiếng Việt này. Nếu bạn quan tâm đến việc đóng góp bản dịch, vui lòng xem [Hướng Dẫn Đóng Góp](../CONTRIBUTING.md) để biết thêm thông tin.
 
 ---
 
-*"Hành trình ngàn dặm bắt đầu bằng một bước chân." — Lão Tử*
+*"Bình an trong tự thân, hòa bình trên thế giới." — Thiền sư Thích Nhất Hạnh*
