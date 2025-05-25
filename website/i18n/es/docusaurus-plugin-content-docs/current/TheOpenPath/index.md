@@ -68,11 +68,11 @@ Para aquellos nuevos al Camino Abierto:
 
 El Camino Abierto sirve como la base para todos los otros módulos en la Iniciativa de Florecimiento Global:
 
-- La conciencia interior y resistencia desarrolladas aquí apoyan la presencia nutritiva necesaria en [El Inicio Floreciente](../01_ElInicioFloreciente/README.md).
-- La compasión e interconexión cultivadas en estas prácticas se extiende naturalmente al cuidado de nuestra [Integridad Ecológica](../02_IntegridadEcológica/README.md).
-- La claridad y sabiduría desarrolladas a través de estas prácticas mejora nuestra capacidad de crear sistemas que aseguren [Necesidades Básicas Universales](../03_NecesidadesBásicasUniversales/README.md) para todos.
-- La regulación emocional y bienestar fomentados aquí contribuyen a la [Salud Global](../04_SaludGlobal_ErradicaciónDeEnfermedades/README.md).
-- La paz interior y entendimiento compasivo cultivados en estas prácticas forma la base para la [Paz Global y Cooperación](../05_PazGlobal_Cooperación/README.md).
+- La conciencia interior y resistencia desarrolladas aquí apoyan la presencia nutritiva necesaria en [El Inicio Floreciente](../TheFlourishingStart/README.md).
+- La compasión e interconexión cultivadas en estas prácticas se extiende naturalmente al cuidado de nuestra [Integridad Ecológica](../EcologicalIntegrity/README.md).
+- La claridad y sabiduría desarrolladas a través de estas prácticas mejora nuestra capacidad de crear sistemas que aseguren [Necesidades Básicas Universales](../UniversalBasicNeeds/README.md) para todos.
+- La regulación emocional y bienestar fomentados aquí contribuyen a la [Salud Global](../GlobalHealth_DiseaseEradication/README.md).
+- La paz interior y entendimiento compasivo cultivados en estas prácticas forma la base para la [Paz Global y Cooperación](../GlobalPeace_Cooperation/README.md).
 
 ## Contribuir
 

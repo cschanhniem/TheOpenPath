@@ -11,22 +11,22 @@ Este repositorio es un commons de conocimiento abierto y en evolución. Comienza
 
 Esta versión en español contiene seis módulos principales que abordan diferentes aspectos del florecimiento humano desde la escala individual hasta la global:
 
-### [00_ElCaminoAbierto](ElCaminoAbierto/)
+### [00_ElCaminoAbierto](TheOpenPath/)
 El módulo fundamental centrado en la conciencia interior, la regulación emocional y el bienestar personal.
 
-### [01_ElInicioFloreciente](ElInicioFloreciente/)
+### [01_ElInicioFloreciente](TheFlourishingStart/)
 Abordando los primeros mil días críticos de vida y el desarrollo de la primera infancia.
 
-### [02_IntegridadEcológica](IntegridadEcológica/)
+### [02_IntegridadEcológica](EcologicalIntegrity/)
 Explorando nuestra relación con el mundo natural y las prácticas de vida sostenible. *(Próximamente)*
 
-### [03_NecesidadesBásicasUniversales](NecesidadesBásicasUniversales/)
+### [03_NecesidadesBásicasUniversales](UniversalBasicNeeds/)
 Centrándose en garantizar que todos tengan acceso a las necesidades fundamentales para una vida digna. *(Próximamente)*
 
-### [04_SaludGlobal_ErradicaciónDeEnfermedades](SaludGlobal_ErradicaciónDeEnfermedades/)
+### [04_SaludGlobal_ErradicaciónDeEnfermedades](GlobalHealth_DiseaseEradication/)
 Abordando los desafíos de salud y la prevención de enfermedades a escala individual y global. *(Próximamente)*
 
-### [05_PazGlobal_Cooperación](PazGlobal_Cooperación/)
+### [05_PazGlobal_Cooperación](GlobalPeace_Cooperation/)
 Explorando caminos hacia la paz, la transformación de conflictos y la resolución colaborativa de problemas. *(Próximamente)*
 
 ## Estado de Traducción

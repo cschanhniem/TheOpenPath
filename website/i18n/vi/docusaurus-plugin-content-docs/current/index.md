@@ -1,3 +1,9 @@
+---
+slug: /
+title: Con Đường Mở - Sáng Kiến Phát Triển Toàn Diện Toàn Cầu
+sidebar_position: 1
+---
+
 # Con Đường Mở - Sáng Kiến Phát Triển Toàn Diện Toàn Cầu
 
 **Trang Web:** [https://cschanhniem.github.io/TheOpenPath/](https://cschanhniem.github.io/TheOpenPath/)
@@ -11,22 +17,22 @@ Kho lưu trữ này là một kho tri thức chung mở và phát triển. Nó b
 
 Phiên bản tiếng Việt này chứa sáu mô-đun chính giải quyết các khía cạnh khác nhau của sự phát triển toàn diện của con người từ cấp độ cá nhân đến toàn cầu:
 
-### [00_ConĐườngMở](ConĐườngMở/)
+### [00_ConĐườngMở](TheOpenPath/)
 Mô-đun nền tảng tập trung vào nhận thức nội tâm, điều hòa cảm xúc và hạnh phúc cá nhân.
 
-### [01_KhởiĐầuThịnhVượng](KhởiĐầuThịnhVượng/)
+### [01_KhởiĐầuThịnhVượng](TheFlourishingStart/)
 Giải quyết một nghìn ngày đầu đời quan trọng và sự phát triển trong thời thơ ấu.
 
-### [02_TínhToànVẹnSinhThái](TínhToànVẹnSinhThái/)
+### [02_TínhToànVẹnSinhThái](EcologicalIntegrity/)
 Khám phá mối quan hệ của chúng ta với thế giới tự nhiên và các phương thức sống bền vững. *(Sắp có)*
 
-### [03_NhuCầuCơBảnToànCầu](NhuCầuCơBảnToànCầu/)
+### [03_NhuCầuCơBảnToànCầu](UniversalBasicNeeds/)
 Tập trung vào việc đảm bảo mọi người đều được tiếp cận với các nhu cầu cơ bản cho một cuộc sống đáng trân trọng. *(Sắp có)*
 
-### [04_SứcKhỏeToànCầu_XóaBỏDịchBệnh](SứcKhỏeToànCầu_XóaBỏDịchBệnh/)
+### [04_SứcKhỏeToànCầu_XóaBỏDịchBệnh](GlobalHealth_DiseaseEradication/)
 Giải quyết các thách thức về sức khỏe và phòng ngừa bệnh tật ở cấp độ cá nhân và toàn cầu. *(Sắp có)*
 
-### [05_HòaBìnhToànCầu_HợpTác](HòaBìnhToànCầu_HợpTác/)
+### [05_HòaBìnhToànCầu_HợpTác](GlobalPeace_Cooperation/)
 Khám phá con đường dẫn đến hòa bình, chuyển hóa xung đột và giải quyết vấn đề hợp tác. *(Sắp có)*
 
 ## Tình Trạng Dịch Thuật

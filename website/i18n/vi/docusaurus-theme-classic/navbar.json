@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Con Đường Mở",
+    "description": "The title in the navbar"
+  },
+  "item.label.Documentation": {
+    "message": "Tài liệu",
+    "description": "Navbar item with label Documentation"
+  }
+}

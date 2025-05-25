@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+title: Con Đường Mở
+---
+
 # Con Đường Mở
 
 ## Giới thiệu
@@ -68,11 +73,11 @@ Thư mục Bản dịch chứa các phiên bản của tài liệu Con Đường
 
 Con Đường Mở đóng vai trò nền tảng cho tất cả các mô-đun khác trong Sáng Kiến Phát Triển Toàn Diện Toàn Cầu:
 
-- Nhận thức nội tâm và khả năng phục hồi được phát triển ở đây hỗ trợ sự hiện diện nuôi dưỡng cần thiết trong [Khởi Đầu Thịnh Vượng](../01_KhởiĐầuThịnhVượng/README.md).
-- Lòng từ bi và sự kết nối được nuôi dưỡng trong những phương pháp thực hành này tự nhiên mở rộng đến sự quan tâm đối với [Tính Toàn Vẹn Sinh Thái](../02_TínhToànVẹnSinhThái/README.md) của chúng ta.
-- Sự rõ ràng và trí tuệ phát triển thông qua những phương pháp thực hành này nâng cao khả năng của chúng ta trong việc tạo ra các hệ thống đảm bảo [Nhu Cầu Cơ Bản Toàn Cầu](../03_NhuCầuCơBảnToànCầu/README.md) cho tất cả mọi người.
-- Sự điều hòa cảm xúc và hạnh phúc được nuôi dưỡng ở đây góp phần vào [Sức Khỏe Toàn Cầu](../04_SứcKhỏeToànCầu_XóaBỏDịchBệnh/README.md).
-- Sự bình an nội tâm và hiểu biết từ bi được nuôi dưỡng trong những phương pháp thực hành này tạo nền tảng cho [Hòa Bình và Hợp Tác Toàn Cầu](../05_HòaBìnhToànCầu_HợpTác/README.md).
+- Nhận thức nội tâm và khả năng phục hồi được phát triển ở đây hỗ trợ sự hiện diện nuôi dưỡng cần thiết trong [Khởi Đầu Thịnh Vượng](../TheFlourishingStart/README.md).
+- Lòng từ bi và sự kết nối được nuôi dưỡng trong những phương pháp thực hành này tự nhiên mở rộng đến sự quan tâm đối với [Tính Toàn Vẹn Sinh Thái](../EcologicalIntegrity/README.md) của chúng ta.
+- Sự rõ ràng và trí tuệ phát triển thông qua những phương pháp thực hành này nâng cao khả năng của chúng ta trong việc tạo ra các hệ thống đảm bảo [Nhu Cầu Cơ Bản Toàn Cầu](../UniversalBasicNeeds/README.md) cho tất cả mọi người.
+- Sự điều hòa cảm xúc và hạnh phúc được nuôi dưỡng ở đây góp phần vào [Sức Khỏe Toàn Cầu](../GlobalHealth_DiseaseEradication/README.md).
+- Sự bình an nội tâm và hiểu biết từ bi được nuôi dưỡng trong những phương pháp thực hành này tạo nền tảng cho [Hòa Bình và Hợp Tác Toàn Cầu](../GlobalPeace_Cooperation/README.md).
 
 ## Đóng góp
 
