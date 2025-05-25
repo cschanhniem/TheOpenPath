@@ -9,6 +9,23 @@
 **Core Philosophy:**
 This repository is an open-source, evolving knowledge commons. It begins with the individual's journey towards self-awareness and well-being and expands to encompass actionable wisdom and frameworks for societal and ecological flourishing. We believe in the interconnectedness of individual well-being and global well-being. All content is intended to be freely shared, adapted, and improved by a global community.
 
+## 🚀 Quick Start - Good First Issues
+
+**New to The Open Path?** Start contributing in just 5-30 minutes! These beginner-friendly tasks help you get familiar with our project while making meaningful contributions:
+
+### 🌱 5-Minute Contributions
+- **[Fix typos and improve readability in README.md](https://github.com/cschanhniem/TheOpenPath/issues/2)** - Perfect first contribution
+- **[Add 5 new terms to the Glossary.md](https://github.com/cschanhniem/TheOpenPath/issues/3)** - Expand our shared vocabulary
+
+### 🌿 15-30 Minute Contributions
+- **[Create a simple practice guide template](https://github.com/cschanhniem/TheOpenPath/issues/4)** - Help standardize our content
+- **[Translate a short practice guide](https://github.com/cschanhniem/TheOpenPath/issues/5)** - Make content accessible globally
+- **[Create social media preview images](https://github.com/cschanhniem/TheOpenPath/issues/6)** - Help spread awareness
+
+**[→ See all good first issues](https://github.com/cschanhniem/TheOpenPath/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)**
+
+**Ready to contribute?** Check our **[Contributing Guide](CONTRIBUTING.md)** and **[Community Hub](Community_Hub.md)** for more ways to get involved!
+
 ## Available Languages
 
 This project supports multiple languages through GitBook's multi-language structure:
