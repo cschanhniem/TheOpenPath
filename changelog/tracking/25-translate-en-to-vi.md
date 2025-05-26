@@ -29,15 +29,15 @@
         - [x] `03_CompassionMeditations.md` (completed)
         - [x] `04_WalkingMovementMeditations.md` (completed)
         - [x] `05_DailyLifeIntegration.md` (completed)
-    - [ ] Translate files in `en/00_TheOpenPath/Principles/` to `vi/00_ConĐườngMở/Principles/`.
+    - [x] Translate files in `en/00_TheOpenPath/Principles/` to `vi/00_ConĐườngMở/Principles/`.
         - [x] `01_UnderstandingTheMind.md` (already completed)
         - [x] `02_CultivatingAwareness.md` (already completed)
         - [x] `03_DevelopingCompassion.md` (completed)
         - [x] `04_UnderstandingInterconnection.md` (completed)
-        - [ ] `05_CultivatingWisdom.md`
-        - [ ] `06_BuildingResilience.md`
-        - [ ] `07_UnderstandingSuffering.md`
-        - [ ] `08_EthicalLiving.md`
+        - [x] `05_CultivatingWisdom.md` (completed)
+        - [x] `06_BuildingResilience.md` (completed)
+        - [x] `07_UnderstandingSuffering.md` (completed)
+        - [x] `08_EthicalLiving.md` (completed)
     - [x] Translate files in `en/00_TheOpenPath/Resources/` to `vi/00_ConĐườngMở/Resources/`.
         - [x] `README.md` (completed)
         - [x] `01_ScientificResearch.md` (completed)
