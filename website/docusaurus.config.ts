@@ -145,6 +145,10 @@ const config: Config = {
               label: 'License',
               to: '/license',
             },
+            {
+              label: 'Golden Moments Privacy',
+              to: '/golden-moments-privacy',
+            },
           ],
         },
       ],
