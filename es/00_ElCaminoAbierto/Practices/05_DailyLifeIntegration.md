@@ -231,7 +231,7 @@ Cada momento ofrece una oportunidad para practicar:
 ### Trabajar con Emociones Difíciles
 
 **Ira y Frustración**:
-- Use la técnica PAUSA: Parar, tomar Aire, Unterizar/Observar, y Seguir/Actuar con Atención plena.
+- Use la técnica PAUSA: Parar, tomar Aire, Observar, y Seguir/Actuar con Atención plena.
 - Practique bondad amorosa hacia las personas que lo irritan
 - Busque las necesidades subyacentes a su enojo
 - Canalice la ira hacia acciones compasivas cuando sea apropiado

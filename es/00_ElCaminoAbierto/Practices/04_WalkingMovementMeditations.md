@@ -162,7 +162,7 @@ Concéntrese en estos elementos al caminar:
 - Párese cerca de un árbol e imagínese enraizado como él
 - Sienta su conexión con la tierra a través de los pies
 - Visualice que extrae estabilidad y nutrición del suelo
-- Balanceate suavemente como un árbol en el viento manteniendo la conexión con sus raíces
+- Balancéese suavemente como un árbol en el viento manteniendo la conexión con sus raíces
 - Practique durante 10-20 minutos
 
 ## Secuencias de Movimiento Consciente

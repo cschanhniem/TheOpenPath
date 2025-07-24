@@ -31,7 +31,7 @@ Antes de comenzar, tómese un momento para clarificar su intención:
 
 La meditación de amor bondadoso consiste en extender sistemáticamente buenos deseos hacia uno mismo, seres queridos, personas neutrales, personas difíciles y todos los seres. La práctica utiliza frases o intenciones para cultivar sentimientos genuinos de cuidado y buena voluntad.
 
-### Traditional Phrases
+### Frases Tradicionales
 
 Las frases clásicas son:
 - "Que seas feliz"
@@ -51,7 +51,7 @@ Puede adaptar estas frases para que resuenen con su propio idioma y cultura:
 
 - Adopte su postura de meditación y respire profundamente unas cuantas veces
 - Traiga su imagen mental con amabilidad, quizás visualizándose o sintiendo su presencia
-- Comience ofreciendo las frases de amor bondadoso a si mismo:
+- Comience ofreciendo las frases de amor bondadoso a sí mismo:
   - "Que yo sea feliz"
   - "Que yo tenga salud"
   - "Que yo esté a salvo"

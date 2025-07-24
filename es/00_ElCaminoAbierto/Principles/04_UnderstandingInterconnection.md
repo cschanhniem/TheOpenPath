@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Una de las comprensiones más profundas a las que puede acceder la conciencia humana es el reconocimiento de nuestra interconexión fundamental con toda la vida. Esta comprensión, que nada existe en aislamiento y todo surge en dependencia de incontables condiciones, ransforma la forma en que nos vemos a nosotros mismos, a los demás y nuestro lugar en el mundo.
+Una de las comprensiones más profundas a las que puede acceder la conciencia humana es el reconocimiento de nuestra interconexión fundamental con toda la vida. Esta comprensión, que nada existe en aislamiento y todo surge en dependencia de incontables condiciones, transforma la forma en que nos vemos a nosotros mismos, a los demás y nuestro lugar en el mundo.
 
 Este documento explora la naturaleza de la interconexión, sus implicaciones para la forma en que vivimos, y cómo esta comprensión puede cultivarse e integrarse en la vida cotidiana.
 
