@@ -7,6 +7,8 @@ sidebar_position: 100
 
 *Last updated: July 22, 2025*
 
+![Golden Moments App](../static/golden-moments.png)
+
 ## About Golden Moments
 
 Golden Moments is a gentle memory-matching puzzle game app available for iOS and Android devices, designed specifically for elders as part of The Open Path - Global Flourishing Initiative.
