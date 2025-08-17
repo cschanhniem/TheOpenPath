@@ -101,7 +101,7 @@ We may update this privacy policy occasionally to improve clarity or reflect new
 If you have questions about privacy or need help with your data:
 
 **The Open Path Team**
-- **Email**: [Contact information to be added]
+- **Email**: vh3969@gmail.com
 - **GitHub**: [https://github.com/cschanhniem/TheOpenPath](https://github.com/cschanhniem/TheOpenPath)
 - **Community**: Join our discussions for support and feedback
 
