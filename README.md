@@ -37,9 +37,9 @@ This project supports multiple languages through GitBook's multi-language struct
 When viewing on GitBook, you can select your preferred language from the language selector. Each language has its own complete navigation and content structure.
 
 ---
-```
 ## Root Directory Structure & Content
 
+```
 ├── README.md                   # Main entry point: Vision, Mission, How to Navigate, Core Principles
 ├── CONTRIBUTING.md             # Guidelines for contributors
 ├── CODE_OF_CONDUCT.md          # Community standards
